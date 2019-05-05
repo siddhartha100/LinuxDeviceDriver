@@ -1,0 +1,1 @@
+cmd_/home/siddhartha/Documents/linux_modules/nothing/nothing.ko := ld -r -m elf_i386 -T /home/siddhartha/Documents/linux-Kernel/linux-2.6.34/scripts/module-common.lds --build-id -o /home/siddhartha/Documents/linux_modules/nothing/nothing.ko /home/siddhartha/Documents/linux_modules/nothing/nothing.o /home/siddhartha/Documents/linux_modules/nothing/nothing.mod.o

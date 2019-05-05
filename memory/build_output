@@ -1,0 +1,5 @@
+make -j2 CONFIG_DEBUG_SECTION_MISMATCH=y -C /lib/modules/2.6.34/build M=/home/siddhartha/Documents/linux_modules/memory modules
+make[1]: Entering directory `/home/siddhartha/Documents/linux-Kernel/linux-2.6.34'
+  Building modules, stage 2.
+  MODPOST 1 modules
+make[1]: Leaving directory `/home/siddhartha/Documents/linux-Kernel/linux-2.6.34'
